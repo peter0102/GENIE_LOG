@@ -92,7 +92,7 @@
             <plugin>
                 <groupId>org.pitest</groupId>
                 <artifactId>pitest-maven</artifactId>
-                <version>0.32</version>
+                <version>1.15.3</version>
             </plugin>
         </plugins>
     </build>
